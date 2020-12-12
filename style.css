@@ -1,0 +1,46 @@
+.container{
+    width:75%;
+}
+.selekt{
+    width:30%;
+}
+.login_input{
+    width:40%;
+}
+
+.image_mobilni{
+    width:230px;
+}
+
+
+@media only screen and (max-width: 600px){
+    .container{
+        width:100%;
+    }
+    .bezveze{
+        color:red;
+    }
+
+    .selekt{
+        width:70%;
+    }
+
+    .login_input{
+        width:80%;
+    }
+
+    .kupljeno_prodato{
+        float:left;
+    }
+
+    .image_mobilni{
+        width:250px;
+        height: 100%;
+    }
+
+
+
+
+}
+
+
